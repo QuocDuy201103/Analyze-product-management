@@ -1,0 +1,549 @@
+<mxfile host="Electron" modified="2023-11-27T11:22:52.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="aVz--U7kipTYbqfRBmrO" version="22.0.0" type="device">
+  <diagram name="Page-1" id="9U2_AY3e3tQVtbpmoSu3">
+    <mxGraphModel dx="-7864" dy="-2156" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-3" target="0EY4GcK1H0WCjc44GyHN-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="21060" y="7524" />
+              <mxPoint x="21060" y="8280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-3" target="0EY4GcK1H0WCjc44GyHN-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18648" y="7389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-3" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20808" y="7128" />
+              <mxPoint x="17748" y="7128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.product.ProductTemplate&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_open_label_layout()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_update_quantity_on_hand()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;open_pricelist_rules()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_open_quants()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_product_tmpl_forecast_report()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_view_stock_move_lines()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_view_orderpoints()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20592" y="7326" width="448" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QwHscKGR1Y_ATjDhtnht-2" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14688" y="7083" />
+              <mxPoint x="17676" y="7083" />
+            </Array>
+            <mxPoint x="19958" y="8445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-5" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19102" y="7668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-6" target="0EY4GcK1H0WCjc44GyHN-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18468" y="8676" />
+              <mxPoint x="17028" y="8676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="0EY4GcK1H0WCjc44GyHN-6" target="0EY4GcK1H0WCjc44GyHN-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18576" y="9144" />
+              <mxPoint x="20772" y="9144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-6" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18504" y="7992" />
+              <mxPoint x="17784" y="7992" />
+            </Array>
+            <mxPoint x="17451" y="7074" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.product.Product&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_open_quants()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_view_orderpoints()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="18306" y="8918.5" width="410" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-22" target="0EY4GcK1H0WCjc44GyHN-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20808" y="8784" />
+              <mxPoint x="20808" y="8784" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-8" target="0EY4GcK1H0WCjc44GyHN-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14364" y="7272" />
+              <mxPoint x="14364" y="6120" />
+              <mxPoint x="21240" y="6120" />
+              <mxPoint x="21240" y="7488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-8" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16992" y="7308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.product_label_layout.ProductLabelLayout&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;process()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_prepare_report_data()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14436" y="7200" width="562" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-9" target="0EY4GcK1H0WCjc44GyHN-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19053" y="6408" />
+              <mxPoint x="19053" y="6408" />
+            </Array>
+            <mxPoint x="26289" y="8712" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-9" target="0EY4GcK1H0WCjc44GyHN-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19512" y="6264" />
+              <mxPoint x="21276" y="6264" />
+              <mxPoint x="21276" y="7452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-42" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18540" y="8307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-9" target="0EY4GcK1H0WCjc44GyHN-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19476" y="8181" />
+              <mxPoint x="15265" y="8181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-23" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20696" y="6768" />
+              <mxPoint x="17064" y="6768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.product_replenish.ProductReplenish&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;default_get()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;launch_replenishment()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="19251" y="6300" width="525" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-10" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17748" y="8559" />
+              <mxPoint x="17748" y="8559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.base.models.ir_actions.IrActions&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_for_xml_id()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_get_action_dict()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_get_readable_fields()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="17559" y="8838" width="392" height="336" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-11" target="0EY4GcK1H0WCjc44GyHN-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19836" y="9216" />
+              <mxPoint x="17748" y="9216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-11" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19836" y="7956" />
+              <mxPoint x="17820" y="7956" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.base.models.ir_actions_report.IrActionsReport&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;report_action()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="19593" y="8946" width="498" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-12" target="0EY4GcK1H0WCjc44GyHN-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17064" y="9324" />
+              <mxPoint x="21168" y="9324" />
+              <mxPoint x="21168" y="7416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-12" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16992" y="7992" />
+              <mxPoint x="17676" y="7992" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-13" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15265" y="9288" />
+              <mxPoint x="18504" y="9288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-14" target="0EY4GcK1H0WCjc44GyHN-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14652" y="9468" />
+              <mxPoint x="21132" y="9468" />
+              <mxPoint x="21132" y="6948" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_picking.Picking&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_confirm()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_open_label_type()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_open_label_layout()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;button_scrap()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_cancel()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_set_quantities_to_reservation()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;do_unreserve()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;do_print_picking()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_clear_quantities_to_zero()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_toggle_is_locked()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_assign()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;write()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14450" y="8703" width="433" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-15" target="0EY4GcK1H0WCjc44GyHN-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14652" y="8514" />
+              <mxPoint x="14652" y="8514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamond;endFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-15" target="0EY4GcK1H0WCjc44GyHN-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14292" y="8136" />
+              <mxPoint x="14292" y="6192" />
+              <mxPoint x="21177" y="6192" />
+              <mxPoint x="21177" y="6913" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_move.StockMove&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_trigger_scheduler()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_set_quantities_to_reservation()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_do_unreserve()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_clear_quantities_to_zero()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14436" y="8037" width="432" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-16" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17784" y="6912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_package_level.StockPackageLevel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_generate_moves()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20501" y="6840" width="560" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-17" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16129" y="7956" />
+              <mxPoint x="17640" y="7956" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-17" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16200" y="9360" />
+              <mxPoint x="18468" y="9360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_scrap.StockScrap&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_validate()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_get_stock_move_lines()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="15912" y="8865" width="434" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-18" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17028" y="6966" />
+              <mxPoint x="17028" y="6966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.stock_scheduler_compute.StockSchedulerCompute&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;procure_calculation()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="16713" y="6292" width="643" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.stock_inventory_warning.StockInventoryWarning&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_reset()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14436" y="7677" width="619" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.stock_inventory_adjustment_name.StockInventoryAdjustmentName&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_apply()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14463" y="6354" width="764" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-21" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15912" y="7627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.stock_request_count.StockRequestCount&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_request_count()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="15615" y="6344.5" width="562" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-68" target="0EY4GcK1H0WCjc44GyHN-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18612" y="8604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-23" target="0EY4GcK1H0WCjc44GyHN-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="21348" y="6408" />
+              <mxPoint x="21348" y="9000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-24" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18576" y="7596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_warehouse.Warehouse&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_view_all_routes()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_get_all_routes()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="18360" y="6300" width="477" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.models.BaseModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;create()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;write()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;check_company()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;mapped()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;filtered()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;ensure_one()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;onchange()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;user_has_gruops()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="17532" y="6282" width="429" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-21" target="0EY4GcK1H0WCjc44GyHN-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15876" y="8352" />
+              <mxPoint x="16956" y="8352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-20" target="0EY4GcK1H0WCjc44GyHN-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8921" y="8460" as="sourcePoint" />
+            <mxPoint x="15588" y="8530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="14148" y="6412" />
+              <mxPoint x="14148" y="9504" />
+              <mxPoint x="17028" y="9504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-19" target="0EY4GcK1H0WCjc44GyHN-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10782" y="8433" as="sourcePoint" />
+            <mxPoint x="15580" y="8540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="14220" y="7776" />
+              <mxPoint x="14220" y="9576" />
+              <mxPoint x="16992" y="9576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.models.Model&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="17577" y="7524" width="330" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-33" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17280" y="7614" />
+              <mxPoint x="17280" y="7614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.models.TransientModel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="16884" y="7515" width="335" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="QwHscKGR1Y_ATjDhtnht-2" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16308" y="6769" />
+              <mxPoint x="16308" y="7704" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-20" target="0EY4GcK1H0WCjc44GyHN-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14845" y="6696" />
+              <mxPoint x="16344" y="6696" />
+              <mxPoint x="16344" y="7668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-17" target="0EY4GcK1H0WCjc44GyHN-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15732" y="9036" />
+              <mxPoint x="15732" y="9036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-15" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14292" y="8172" />
+              <mxPoint x="14292" y="9432" />
+              <mxPoint x="18540" y="9432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-14" target="0EY4GcK1H0WCjc44GyHN-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14688" y="8568" />
+              <mxPoint x="17712" y="8568" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="0EY4GcK1H0WCjc44GyHN-5" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="18195" y="8506" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="18792" y="9000" />
+              <mxPoint x="18792" y="9000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-8" target="0EY4GcK1H0WCjc44GyHN-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="18432" y="7272" />
+            </Array>
+            <mxPoint x="18307" y="8604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwHscKGR1Y_ATjDhtnht-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0EY4GcK1H0WCjc44GyHN-32" target="0EY4GcK1H0WCjc44GyHN-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17712" y="6804" />
+              <mxPoint x="17712" y="6804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-9" target="0EY4GcK1H0WCjc44GyHN-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20052" y="6372" />
+              <mxPoint x="20052" y="6372" />
+            </Array>
+            <mxPoint x="19126" y="6395" as="sourcePoint" />
+            <mxPoint x="16526" y="7123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.wizard.stock_orderpoint_snooze.StockOrderpointSnooze&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_snooze()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20333" y="6300" width="729" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-22" target="0EY4GcK1H0WCjc44GyHN-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20772" y="8712" />
+              <mxPoint x="20772" y="8712" />
+            </Array>
+            <mxPoint x="21315" y="9189" as="sourcePoint" />
+            <mxPoint x="18599" y="6448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-68" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.product.wizard.product_label_layout.ProductLabelLayout&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20500" y="8550" width="562" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-8" target="0EY4GcK1H0WCjc44GyHN-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20731" y="9875" as="sourcePoint" />
+            <mxPoint x="21233" y="8625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="14364" y="7308" />
+              <mxPoint x="14364" y="9396" />
+              <mxPoint x="20844" y="9396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_orderpoint.StockWarehouseOrderpoint&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_replenish()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_replenish_auto()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_get_replenishment_order_notification()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_compute_qty()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20500" y="8891" width="599" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-14" target="0EY4GcK1H0WCjc44GyHN-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14688" y="9252" />
+              <mxPoint x="16956" y="9252" />
+            </Array>
+            <mxPoint x="14922" y="8669" as="sourcePoint" />
+            <mxPoint x="17942" y="10392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.stock.models.stock_quant.StockQuant&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_apply_inventory()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_view_inventory()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_set_view_context()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_apply_inventory()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&amp;nbsp;_get_inventory_move_values() _set_view_context()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_inventory_history()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_set_inventory_quantity()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_reset()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;action_set_inventory_quantity_to_zero()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="16793" y="8856" width="437" height="308" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-15" target="0EY4GcK1H0WCjc44GyHN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="18716" y="9006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="19080" y="8136" />
+            </Array>
+            <mxPoint x="14463" y="7785" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.base.models.ir_ui_view.Model&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;load_views()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;get_views()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="18890" y="8932.5" width="425" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.product.product_product.ProductProduct&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20623" y="7884" width="417" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-9" target="0EY4GcK1H0WCjc44GyHN-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19548" y="8280" />
+            </Array>
+            <mxPoint x="19527" y="6436" as="sourcePoint" />
+            <mxPoint x="18511" y="8919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-42" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.product.product_product.ProductProduct&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="20607.5" y="8235" width="417" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=diamond;startFill=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-12" target="0EY4GcK1H0WCjc44GyHN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16920" y="9216" />
+              <mxPoint x="15300" y="9216" />
+            </Array>
+            <mxPoint x="16793" y="9000" as="sourcePoint" />
+            <mxPoint x="18306" y="9000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-13" target="0EY4GcK1H0WCjc44GyHN-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15228" y="9540" />
+              <mxPoint x="20808" y="9540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EY4GcK1H0WCjc44GyHN-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.uom.models.uom_uom.UoM&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;_compute_quantity()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="15066" y="8955" width="397" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="soqEhewrPMqfQvKZUVOD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="0EY4GcK1H0WCjc44GyHN-19" target="QwHscKGR1Y_ATjDhtnht-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15084" y="7741" />
+              <mxPoint x="15084" y="6815" />
+            </Array>
+            <mxPoint x="14691" y="7677" as="sourcePoint" />
+            <mxPoint x="16884" y="7626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwHscKGR1Y_ATjDhtnht-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;odoo.addons.base.models.ir_ui_view.View&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;default_view()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="14458" y="6759" width="425" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
